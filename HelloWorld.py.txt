@@ -1,1 +1,1 @@
-print ("ET0735 - DevOps For AIot")
+print ("ET0735 - DevOps For AI")
